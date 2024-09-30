@@ -13,7 +13,7 @@
     list (you can leave its f at zero)
 
 3.  while the open list is not empty
-    a) find the node with the least f on 
+    a) find the node with the least f on
        the open list, call it "q"
 
     b) pop q off the open list
